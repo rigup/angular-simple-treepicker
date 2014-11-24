@@ -1,0 +1,8 @@
+{
+  "name": "angular-simple-treepicker",
+  "version": "0.0.1",
+  "main": "angular-simple-treepicker.js",
+  "dependencies": {
+    "jquery-simple-treepicker": "rigup/jquery-simple-treepicker"
+  }
+}
